@@ -1,4 +1,4 @@
-This repository contains solutions to the Striver A2Z DSA sheet problems. 
+This Repo contains solutions to the striver DSA problems.
 
 
 *****HAPPY CODING!!*****
