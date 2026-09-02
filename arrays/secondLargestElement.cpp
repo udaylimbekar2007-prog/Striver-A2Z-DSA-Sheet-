@@ -24,7 +24,7 @@ class Solution {
 };
 
 int main() {
-    vector<int> nums = {9, 9, 9, 9, 9, 9};   
+    vector<int> nums = {3, 4, 2, 7, 9, 5, 9};   
     
     Solution s;
     int result = s.secondLargestElement(nums);
